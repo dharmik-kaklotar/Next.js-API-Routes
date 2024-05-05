@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-    https://github.com/dharmik-kaklotar/OSM-Shop.git
+    https://github.com/dharmik-kaklotar/Next.js-API-Routes.git
 
 
 2. Install dependencies:
