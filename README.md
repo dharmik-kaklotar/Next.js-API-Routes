@@ -23,7 +23,6 @@ To run this project locally, follow these steps:
    ```bash
     https://github.com/dharmik-kaklotar/Next.js-API-Routes.git
 
-
 2. Install dependencies:
 
      ```bash
